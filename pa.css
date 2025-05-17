@@ -1,0 +1,55 @@
+body{
+  background-image: url(../Img/fundo\ pa.jfif);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.inicio{
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #390007;
+}
+
+h1{
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #390007;
+  text-align: center;
+}
+
+h2{
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #390007;
+  text-align: center;
+}
+
+h3{
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #390007;
+}
+
+.fx{
+    width: 200px;
+    height: auto;
+    border-radius: 15px; 
+}
+
+.ds{
+    width: 200px;
+    height: auto;
+    border-radius: 15px; 
+}
+
+.psd{
+    width: 200px;
+    height: auto;
+    border-radius: 15px; 
+}
